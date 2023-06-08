@@ -18,4 +18,27 @@ scripts/loader
 ##### webpack 配置
 webpack.config.js
 
+### 项目运行
+
+#### 安装依赖
+```bash
+# yarn
+yarn
+# or
+# npm
+npm install
+```
+#### 打包
+```bash
+npm run build
+```
+#### 运行
+
+```bash
+npm run dev
+```
+
+- 编译结束后会打开浏览器，端口为 8081
+- `localhost:8081/xxxx.html`
+
 
