@@ -5,8 +5,8 @@
 ### 文件目录
 
 ##### 脚本
-scripts/dev.js 开发环境
-scripts/build.js 生产环境
+- scripts/dev.js 开发环境
+- scripts/build.js 生产环境
 
 ##### loader
 config/rules.js
